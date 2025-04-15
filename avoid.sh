@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Bản đã update bởi Bình Tagilla
 # AV0id - Metapsloit Payload Anti-Virus Evasion
 # Daniel Compton
 # www.commonexploits.com
